@@ -73,7 +73,7 @@ header .inner nav {
     padding: 50px;
     text-align: center;
     transition: 1s;
-    z-index: 3;
+    z-index: 4;
 }
 
 header .inner nav .menu_close {
